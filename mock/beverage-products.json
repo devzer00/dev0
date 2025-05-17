@@ -8,7 +8,7 @@
     "createdAt": "2023-10-01T12:00:00Z",
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
-    "image": "https://example.com/images/coffee.jpg"
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/coffee_generated_with_gemini.png"
   },
   {
     "id": "prod_01JVEGAKP3CH56WZ7WJA3KGYJ1",
@@ -19,7 +19,7 @@
     "createdAt": "2023-10-01T12:00:00Z",
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
-    "image": "https://example.com/images/coffee.jpg"
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/tea_generated_with_gemini.png"
   },
   {
     "id": "prod_01JVEGAWXC54TJ8NC0HJVYWFET",
@@ -30,7 +30,7 @@
     "createdAt": "2023-10-01T12:00:00Z",
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
-    "image": "https://example.com/images/coffee.jpg"
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/milk_generated_with_gemini.png"
   },
   {
     "id": "prod_01JVEGB3VCMVRYNTN6QRP9N6EQ",
@@ -41,7 +41,7 @@
     "createdAt": "2023-10-01T12:00:00Z",
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
-    "image": "https://example.com/images/coffee.jpg"
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/coke_generated_with_gemini.png"
   },
   {
     "id": "prod_01JVEGBD8A4HMSHCHB4A2AP9Y4",
@@ -52,6 +52,6 @@
     "createdAt": "2023-10-01T12:00:00Z",
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
-    "image": "https://example.com/images/coffee.jpg"
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/beer_generated_with_gemini.png"
   }
 ]
