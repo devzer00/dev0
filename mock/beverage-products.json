@@ -53,5 +53,16 @@
     "updatedAt": "2023-10-01T12:00:00Z",
     "deletedAt": null,
     "image": "https://github.com/devzer00/dev0/blob/main/mock/beer_generated_with_gemini.png"
+  },
+  {
+    "id": "prod_01JVEGVYE7D3PZCKQC7RKNVKTP",
+    "title": "Peach Drink",
+    "description": "Savor the taste of summer with our limited-edition peach drink. Made with ripe, seasonal peaches for a burst of fresh, fruity flavor.",
+    "price": 500,
+    "inventory": 0,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://github.com/devzer00/dev0/blob/main/mock/peach_generated_with_gemini.png"
   }
 ]
