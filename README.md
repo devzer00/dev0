@@ -1,4 +1,4 @@
-- 👋 Hi, 
+- 👋 Hi, this is a playground account.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React, Typescript, AWS
 
