@@ -1,0 +1,57 @@
+[
+  {
+    "id": "prod_01JVEFK9HY05X83F00C10QZE71",
+    "title": "Coffee",
+    "description": "Experience the invigorating taste of our hot coffee. Sourced from select regions and roasted to perfection, our brews offer a vibrant and nuanced flavor profile that will awaken your senses.",
+    "price": 480,
+    "inventory": 35,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://example.com/images/coffee.jpg"
+  },
+  {
+    "id": "prod_01JVEGAKP3CH56WZ7WJA3KGYJ1",
+    "title": "Tea",
+    "description": "Savor the delightful taste and soothing aroma of our premium tea. Carefully selected leaves brewed to perfection for a truly enjoyable experience.",
+    "price": 280,
+    "inventory": 35,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://example.com/images/coffee.jpg"
+  },
+  {
+    "id": "prod_01JVEGAWXC54TJ8NC0HJVYWFET",
+    "title": "Milk",
+    "description": "Enjoy the wholesome goodness of our fresh milk drink. A naturally delicious and nutritious choice for any time of day.",
+    "price": 190,
+    "inventory": 35,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://example.com/images/coffee.jpg"
+  },
+  {
+    "id": "prod_01JVEGB3VCMVRYNTN6QRP9N6EQ",
+    "title": "Coke",
+    "description": "Enjoy the classic taste of Coca-Cola. A globally loved carbonated beverage for a reason.",
+    "price": 580,
+    "inventory": 35,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://example.com/images/coffee.jpg"
+  },
+  {
+    "id": "prod_01JVEGBD8A4HMSHCHB4A2AP9Y4",
+    "title": "Beer",
+    "description": "Experience the art of brewing in every sip of our carefully crafted beer. Made with passion and premium ingredients for exceptional flavor.",
+    "price": 480,
+    "inventory": 35,
+    "createdAt": "2023-10-01T12:00:00Z",
+    "updatedAt": "2023-10-01T12:00:00Z",
+    "deletedAt": null,
+    "image": "https://example.com/images/coffee.jpg"
+  }
+]
